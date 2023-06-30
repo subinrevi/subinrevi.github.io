@@ -2,7 +2,7 @@
 
 ## Effective Date: 30/06/2023
 
-Thank you for using our macOS menu bar application (the "App"). This Privacy Policy outlines how we collect, use, and handle information when you use our App. By using the App, you agree to the practices described in this policy.
+Thank you for using our macOS menu bar application (the "Time Zone Tracker"). This Privacy Policy outlines how we collect, use, and handle information when you use our App. By using the App, you agree to the practices described in this policy.
 
 ## Information Collection and Use
 
